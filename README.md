@@ -1,3 +1,6 @@
+# Documentation
+I am aware that the documentation needs some love, but for now [examples.py](./examples.py) provides a decent overview. 
+
 # Motivation
 This project aims to provide a "framework" that eases execution of tools in a loop. 
 
