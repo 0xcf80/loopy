@@ -1,8 +1,3 @@
-# Author
-Andre Waldhoff (andre.waldhoff@rub.de). 
-
-As of now, this is a private project developed in my freetime only. This may change. 
-
 # Motivation
 This project aims to provide a "framework" that eases execution of tools in a loop. 
 
