@@ -1,0 +1,2 @@
+python-libnmap>=0.7.0
+nessus-report-parser>=0.2.8.2

@@ -1,0 +1,7 @@
+host,port,service
+127.0.0.1,22,ssh
+127.0.0.1,34835,rpcbind
+127.0.0.2,22,rpcbind
+127.0.0.2,22,should_ignore_service
+127.0.0.2,21,ss_should_ignore_port
+10.10.10.10,22,ss_should_ignore_host
